@@ -1,0 +1,29 @@
+CPSC 21000 – 001
+Lewis University
+Spring 2025
+ 
+Brute Force Alike
+Mackenzie DeLeon
+The program I am hoping to make would be a password strength analyzer. It would check for certain characteristics that make a password strong, such as length, variety, and no common patterns. I would create it using Python and Java script. 
+ 
+Summary
+A password strength analyzer is software that measures the strength of a password against a list of established standards. It checks for the length of the password, the mix of characters (lower- and upper-case letters, numbers, and special characters), and whether there are common patterns or easily utilized sequences (e.g., "password" or "123456"). The checker also checks for the issue of repeated consecutive characters, which are more easily cracked. After evaluating these factors, a password strength analyzer provides feedback on whether the password is weak or strong, and users are instructed to develop more secure passwords that are hard for hackers to crack or guess through brute-force attacks. 
+I would break the code into small sections such as the user’s input to do this. Where it would ask for the password. After it would check for the length. If it is shorter than 8 characters, it would be flagged as weak and respond with the password is too short. It would then check for variety. If it does not meet the requirements, it will tell the user that there are no special characters. After, it would check for common patterns from another list, and if they match it would be marked as weak. Finally, it would check for repeated characters and would respond "weak" if there are more than 2 consecutive characters in a row. 
+
+
+Challenges to Complete
+1.	Break down the project into parts
+2.	They should add up to get you the final project
+3.	But make sure to address this and make sure to mention if one item depends on others completion
+
+Week-by-Week
+-	Week 3: I expect to have a basic template down for what to create, Have the project broken down into steps, and have code written for user input
+-	Week 6: I expect to have code written to check the length, variety, and patterns. I also hope to have code that will return feedback based on the results of the inputted password whether it is too weak, medium, or strong. Depends on Week 3.
+-	Week 9: I expect to have a completed project, completed documents, and ready to present. Depends on all prior weeks.
+ 
+List of Issues I Will Face
+An issue I think I will face is the short amount of time to teach myself and figure it out. I have experience with both python and java script but working them together will be a bit new and a challenge for me. I also feel like I will struggle to meet specific deadlines I make for myself to make sure this assignment is completed on time. 
+
+Technologies to Use
+-	Python – Used to test length, variety, diversity, and patterns
+-	Java Script – Used to return feedback 
